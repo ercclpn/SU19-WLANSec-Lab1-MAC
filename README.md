@@ -150,7 +150,7 @@ So, every time your scanner prints results, they will look like this:
 ## Questions
 
 __Q1__ : What type of frames are used to detect clients in a passive way?
-
+Management frames
 __Q2__ : why is it no longer possible to detect iPhones since version 8 of iOS?
 
 __Q3__ : what is the purpose of those frames?
