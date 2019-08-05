@@ -6,6 +6,10 @@ __Please work in teams of 3 students__
 
 __Korean/Swiss hybrid teams are highly encouraged__
 
+## Student's name
+
+Eric Tran - Sangyoon Cha - Alexandre Monteiro Marques
+
 ### For this first part, you will need to:
 
 *  Learn the basics of WiFI sniffing using Scapy
@@ -151,6 +155,7 @@ So, every time your scanner prints results, they will look like this:
 
 __Q1__ : What type of frames are used to detect clients in a passive way?
 Management frames
+
 __Q2__ : why is it no longer possible to detect iPhones since version 8 of iOS?
 
 __Q3__ : what is the purpose of those frames?
