@@ -154,16 +154,20 @@ So, every time your scanner prints results, they will look like this:
 ## Questions
 
 ## Questions
-__Q1__ : What type of frames are used to detect clients in a passive way?
+__Q1__ : What type of frames are used to detect clients in a passive way?		
    A: Management Frames
-__Q2__ : why is it no longer possible to detect iPhones since version 8 of iOS?
+
+__Q2__ : why is it no longer possible to detect iPhones since version 8 of iOS?		
    A:
-__Q3__ : what is the purpose of those frames?
+
+__Q3__ : what is the purpose of those frames?	
    A: 1) Management:
       2) Data Frames: to transmitt the data
       3) Control Frames: to trasmitt the data
+
 __Q4__ : why are these frames not secured?
    A:
+
 __Q5__ : what other information can you obtain besides the MAC address?
    A: The SSID of networks you have used in the past
 
